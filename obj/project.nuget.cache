@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C0P8buwHkbw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raissa\\Documents\\semester 4\\kpl\\TP_MODUL10_103022400030\\TP_MODUL10_103022400030\\TP_MODUL10_103022400030.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
